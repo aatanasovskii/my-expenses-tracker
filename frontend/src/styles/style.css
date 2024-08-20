@@ -1,0 +1,7 @@
+body {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-size: clamp(1rem, 1.5vw, 1.2rem);
+    color: rgba(34, 34, 96, 0.6);
+    overflow: hidden;
+}
